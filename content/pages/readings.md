@@ -48,7 +48,7 @@ Kay, Lily. "In the Beginning Was the Word?: The Genetic Code and the Book of Lif
 
 Keller, Evelyn Fox. "Molecules, Messages, and Memory: Life and the Second Law." In _Refiguring Life: Metaphors of Twentieth-Century Biology_. Columbia University Press, 1995, pp. 43–78. ISBN: 9780231102049. \[Preview with [Google Books](http://books.google.com/books?id=WuOFxPilBMQC&pg=PA43=onepage)\]
 
-Schrödinger, Erwin. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_What is Life? The Physical Aspect of the Living Cell_. (PDF)](https://kailahawkwenz.files.wordpress.com/2017/05/what-is-life-the-physical-aspect-of-the-living-cell-by-erwin-schrodinger.pdf
+Schrödinger, Erwin. [_What is Life? The Physical Aspect of the Living Cell_. (PDF)](https://kailahawkwenz.files.wordpress.com/2017/05/what-is-life-the-physical-aspect-of-the-living-cell-by-erwin-schrodinger.pdf
             ) Cambridge University Press, 1946. ISBN: 9780684813264. \[Preview with [Google Books](http://books.google.com/books?id=dg2bYMwdaBwC&pg=PAfrontcover)\] (Skim)
 
 Bedau, Mark. "[The Nature of Life](http://people.reed.edu/~mab/publications/papers/life-oxford.html)." In _The Philosophy of Artificial Life_. Edited by Margaret Boden. Oxford University Press, 1996, pp. 332–57. ISBN: 9780198751557.
@@ -145,9 +145,9 @@ Animals, Wild and Domesticated
 {{< tdopen >}}
 
 
-Ritvo, Harriet. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Race, Breed, and Myths of Origin: Chillingham Cattle as Ancient Britons." (PDF - 6.2MB)](http://web.mit.edu/hnritvo/Documents/Articles/1992%20Race,%20Breed,%20and%20Myths%20of%20Origin-%20Chillingham%20Cattle%20as%20Ancient%20Britons%20.pdf) _Representations_ 39 (1992): 1–22.
+Ritvo, Harriet. ["Race, Breed, and Myths of Origin: Chillingham Cattle as Ancient Britons." (PDF - 6.2MB)](http://web.mit.edu/hnritvo/Documents/Articles/1992%20Race,%20Breed,%20and%20Myths%20of%20Origin-%20Chillingham%20Cattle%20as%20Ancient%20Britons%20.pdf) _Representations_ 39 (1992): 1–22.
 
-Grasseni, Christa. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Designer Cows: The Practice of Cattle Breeding between Skill and Standardization." (PDF - 2.6MB)](http://www.animalsandsociety.org/wp-content/uploads/2016/01/grasseni.pdf
+Grasseni, Christa. ["Designer Cows: The Practice of Cattle Breeding between Skill and Standardization." (PDF - 2.6MB)](http://www.animalsandsociety.org/wp-content/uploads/2016/01/grasseni.pdf
 ) _Society and Animals_ 13, no. 1 (2005): 33–49.
 
 Haraway, Donna. "Teddy Bear Patriarchy: Taxidermy in the Garden of Eden." In _Primate Visions: Gender, Race, and Nature in the World of Modern Societies_. Routledge, 1990, pp. 26–58. ISBN: 9780415901147. \[Preview with [Google Books](http://books.google.com/books?id=G1_Q3h5hPP0C&pg=PA26=onepage)\]
@@ -219,7 +219,7 @@ Remixing Sex
 {{< tdopen >}}
 
 
-Fausto-Sterling, Anne. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"The Five Sexes: Why Male and Female Are Not Enough." (PDF)](https://crl.ucsd.edu/~elman/Courses/HDP1/2000/LectureNotes/fausto-sterling.pdf) _The Sciences_ (1993): 20–4.
+Fausto-Sterling, Anne. ["The Five Sexes: Why Male and Female Are Not Enough." (PDF)](https://crl.ucsd.edu/~elman/Courses/HDP1/2000/LectureNotes/fausto-sterling.pdf) _The Sciences_ (1993): 20–4.
 
 Chase, Cheryl. "[Hermaphrodites with Attitude: Mapping the Emergence of Intersex Political Activism](http://glq.dukejournals.org/content/4/2/189.citation)." _GLQ: A Journal of Lesbian and Gay Studies_ 4, no. 2 (1998): 189–211.
 
